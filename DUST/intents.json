@@ -1,0 +1,40 @@
+{
+    "intents": [
+        {
+            "tag": "greetings",
+            "patterns": [
+                "Hi", 
+                "Hello", 
+                "Hey", 
+                "What's Up", 
+                "Good Day"
+            ],
+            "responses": [
+                "Hello!", 
+                "Hello Sir!", 
+                "What Up My Niggah!"
+            ]
+        },
+        {
+            "tag": "dust",
+            "patterns": [
+                "What is DUST?", 
+                "Who is DUST", 
+                "What is D U S T?", 
+                "Tell me about DUST"
+            ],
+            "responses": [
+                "DUST is the Deep Underground Spooby Terminal",
+                "DUST is a Covert location developing ai and machine learning to advance mankind"  
+            ]
+        },
+        {
+            "tag":"file",
+            "patterns": [
+                "Create a file",
+                "Create a new file"
+            ],
+            "response":[]
+        }
+    ]
+}
