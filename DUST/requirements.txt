@@ -1,4 +1,4 @@
-discord.py==2.1.0
+discord.py
 pandas==1.4.3
 sklearn-pandas==2.2.0
 python-dotenv==0.20.0
@@ -13,5 +13,6 @@ tensorflow==2.11.0
 yfinance
 DiscordWebhook
 ta==ta-0.10.2
+
 
 
